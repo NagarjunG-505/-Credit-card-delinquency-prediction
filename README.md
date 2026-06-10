@@ -1,4 +1,4 @@
-Credit Card Delinquency Prediction Analysis
+**Credit Card Delinquency Prediction Analysis**
 
 Project Overview
 
