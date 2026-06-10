@@ -19,7 +19,7 @@ Tools & Technologies
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab
 
 Dataset
 
